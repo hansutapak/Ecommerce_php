@@ -1,4 +1,4 @@
-##👨🏻‍💻🛒 Ecommerce PHP Project
+## 👨🏻‍💻🛒 Ecommerce PHP Project
 
 A full-stack e-commerce web application built with PHP and MySQL, focusing on backend logic, authentication, and dynamic product management.
 
