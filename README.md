@@ -13,21 +13,14 @@ A full-stack e-commerce web application built with PHP and MySQL, focusing on ba
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
-- **Database:** MySQL  
+- **Database:** MySQL
+
+## ## Deployment
+Not publicly deployed due to PHP & MySQL server dependencies.  
+Can be deployed on shared hosting if required.
 
 ## Clone Repository
 ```bash
 git clone https://github.com/hansutapak/Ecommerce_php.git
-
-### Why this is **professional-grade**
-- Includes proper `git clone` command ✅
-- Clean, concise, and honest ✅
-- No fake demo links ✅
-- Supervisor & recruiter friendly ✅
-
-If you want, next we can:
-- Add **badges** (PHP version, license)
-- Clean the repo (`.gitignore`, remove `.DS_Store`)
-- Prepare a **project list** for emailing PhD supervisors
-
-Just tell me 👍
+```
+Feel free to reach out if you want to contribute or have any questions!
