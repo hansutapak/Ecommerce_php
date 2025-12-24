@@ -11,7 +11,7 @@ A full-stack e-commerce web application built with PHP and MySQL, focusing on ba
 - Secure database interaction and form validation
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
 
@@ -19,3 +19,15 @@ A full-stack e-commerce web application built with PHP and MySQL, focusing on ba
 ```bash
 git clone https://github.com/hansutapak/Ecommerce_php.git
 
+### Why this is **professional-grade**
+- Includes proper `git clone` command ✅
+- Clean, concise, and honest ✅
+- No fake demo links ✅
+- Supervisor & recruiter friendly ✅
+
+If you want, next we can:
+- Add **badges** (PHP version, license)
+- Clean the repo (`.gitignore`, remove `.DS_Store`)
+- Prepare a **project list** for emailing PhD supervisors
+
+Just tell me 👍
