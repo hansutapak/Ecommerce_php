@@ -1,7 +1,5 @@
 👨🏻‍💻🛒 Ecommerce PHP Project
 
-# Thrive – PHP E-Commerce Web Application
-
 A full-stack e-commerce web application built with PHP and MySQL, focusing on backend logic, authentication, and dynamic product management.
 
 ## Features
@@ -17,18 +15,7 @@ A full-stack e-commerce web application built with PHP and MySQL, focusing on ba
 - **Backend:** PHP  
 - **Database:** MySQL  
 
-## Setup
-Designed for local deployment using XAMPP:
-1. Place project in `htdocs`
-2. Import the database via phpMyAdmin
-3. Configure `/includes/config.php`
-4. Run at `http://localhost/thrive`
+## Clone Repository
+```bash
+git clone https://github.com/hansutapak/Ecommerce_php.git
 
-## Deployment
-Not publicly deployed due to PHP & MySQL server dependencies.  
-Can be deployed on shared hosting if required.
-
-## Constraints
-- No payment gateway integration
-- No production-grade security hardening (HTTPS, CSRF)
-- Intended for academic and learning purposes
