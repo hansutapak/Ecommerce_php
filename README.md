@@ -1,4 +1,4 @@
-# Ecommerce PHP Project
+🛒# Ecommerce PHP Project
 
 A full-stack ecommerce web application built with PHP and MySQL, featuring product management, shopping cart, and checkout functionalities.
 
