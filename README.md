@@ -2,7 +2,9 @@
 
 A full-stack ecommerce web application built with PHP and MySQL, featuring product management, shopping cart, and checkout functionalities.
 
-**Live Demo:** [Your Live Project URL here]
+## Live Demo
+This project is designed to run in a local development environment (XAMPP).
+Deployment is not included in this repository
 
 ---
 
