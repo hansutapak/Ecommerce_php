@@ -1,4 +1,4 @@
-👨🏻‍💻🛒 Ecommerce PHP Project
+##👨🏻‍💻🛒 Ecommerce PHP Project
 
 A full-stack e-commerce web application built with PHP and MySQL, focusing on backend logic, authentication, and dynamic product management.
 
@@ -15,7 +15,7 @@ A full-stack e-commerce web application built with PHP and MySQL, focusing on ba
 - **Backend:** PHP  
 - **Database:** MySQL
 
-## ## Deployment
+## Deployment
 Not publicly deployed due to PHP & MySQL server dependencies.  
 Can be deployed on shared hosting if required.
 
@@ -23,4 +23,4 @@ Can be deployed on shared hosting if required.
 ```bash
 git clone https://github.com/hansutapak/Ecommerce_php.git
 ```
-Feel free to reach out if you want to contribute or have any questions!
+Feel free to reach out if you want to contribute or have any questions!✌️
